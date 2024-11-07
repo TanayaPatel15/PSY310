@@ -1,0 +1,21 @@
+﻿test,textbox.text,accuracy,conditions,,,,
+c_k_,cake,1,non_prime,,proportion of hit in prime words,8,0.4
+b_o_,book,1,prime,,proportion of hit in non_prime words,7,0.35
+p_n_i_,,0,non_prime,,priming score,,0.05
+I_f_,lift,1,non_prime,,,,
+p_an_,,0,prime,,,,
+cl_s_,class,1,prime,,,,
+t_b_e,table,1,prime,,,,
+l_n_h,lunch,1,prime,,,,
+c_s_i_n,cushion,1,prime,,,,
+s_o_,,0,non_prime,,,,
+_r_e,tree,1,non_prime,,,,
+s_i_t,shirt,1,non_prime,,,,
+t_g_r,tiger,1,prime,,,,
+g_a_s,glass,1,non_prime,,,,
+b_r_,,0,non_prime,,,,
+v_s_,vase,1,prime,,,,
+_ap_y,happy,1,prime,,,,
+p_rr_t,,0,prime,,,,
+_i_h_,light,1,non_prime,,,,
+c_o_k,clock,1,non_prime,,,,

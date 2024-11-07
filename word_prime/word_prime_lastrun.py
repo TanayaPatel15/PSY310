@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.1.5),
-    on October 28, 2024, at 14:10
+    on November 07, 2024, at 15:04
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -583,7 +583,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     
     # set up handler to look after randomisation of conditions etc
-    trials_2 = data.TrialHandler(nReps=4.0, method='random', 
+    trials_2 = data.TrialHandler(nReps=1.0, method='random', 
         extraInfo=expInfo, originPath=-1,
         trialList=data.importConditions('test_words.csv'),
         seed=None, name='trials_2')
@@ -847,7 +847,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if thisSession is not None:
             # if running in a Session with a Liaison client, send data up to now
             thisSession.sendExperimentData()
-    # completed 4.0 repeats of 'trials_2'
+    # completed 1.0 repeats of 'trials_2'
     
     
     # mark experiment as finished
