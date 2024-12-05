@@ -1,0 +1,9 @@
+cue,stimulus,colour,corr_resp
+x,square,red,s
+x,square,blue,s
+x,circle,red,c
+x,circle,blue,c
+y,square,red,r
+y,square,blue,b
+y,circle,red,r
+y,circle,blue,b
